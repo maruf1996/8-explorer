@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 800px;
+    padding: 20px;
+    margin:0 auto;
+    background-color: #ddd;
+    display: flex;
+    gap: 2rem;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
